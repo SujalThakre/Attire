@@ -1,0 +1,43 @@
+*{
+    font-family:'Courier New', Courier, monospace
+    border: 0;
+    margin: 0;
+}
+
+.navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: grey;
+    height: 50px;
+
+}
+.logo{
+    font-size:large;
+    margin: 0;
+    border: 0;
+}
+.offer{
+    display: flex;
+    justify-content: center;
+    height: 30px;
+    background-color: blueviolet;
+}
+
+.pro{
+    background-image: url(./images/iphone14.jpg);
+    background-position: center;
+    height: 90vh;
+}
+.one{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    font-size:xx-large ;
+}
+.two{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    font: size 30px; ;
+}
